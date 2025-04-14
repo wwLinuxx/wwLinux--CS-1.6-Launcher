@@ -77,9 +77,8 @@
     </ManifestKeyFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AlphaBlendTextBox, Version=1.0.1270.35793, Culture=neutral">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>dll\AlphaBlendTextBox.dll</HintPath>
+    <Reference Include="AlphaBlendTextBox">
+      <HintPath>Resources\dll\AlphaBlendTextBox.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
